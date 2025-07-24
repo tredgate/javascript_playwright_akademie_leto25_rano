@@ -9,3 +9,6 @@ null; // * prázdná hodnota
 undefined; // * prázdná (neexistující) hodnota
 
 console.log("Petr " + "Fifka");
+
+const addResult = 5 + 6;
+console.log(addResult);
